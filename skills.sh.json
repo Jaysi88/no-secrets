@@ -1,0 +1,11 @@
+{
+  "$schema": "https://skills.sh/schemas/skills.sh.schema.json",
+  "notGrouped": "bottom",
+  "groupings": [
+    {
+      "title": "Verify",
+      "description": "Stop coding agents committing API keys.",
+      "skills": ["no-secrets"]
+    }
+  ]
+}
